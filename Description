@@ -1,1 +1,26 @@
-
+Package: Jamison
+Title: Final Project (Hacking LeBron or the NBA Tweets)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jamison",
+           family = "Jamison Lockridge",
+           role = c("aut", "cre"),
+           email = "jlockridge97@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+           
+Description: What the package does (one paragraph).
+            This package helps me breakdown Lebron Tweets and also try to find 
+            coding for also the NBA. The NBA season was in full swing this 
+            2020-21 season. As the season wraps to a close I wanted to find 
+            or hack A current NBA superstar tweet. Hack the NBA TWeet in general. 
+            During my time during this project I tend to be unsuccesful in 
+            my time while trying to hack the tweets. I love basketball it's my 
+            second favorite sport and I wanted to something with twitter. 
+            Using Twitter_Visualization also finding the ggplot
+            . 
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
